@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    padding: 20px;
+
+}
+
+.main .navSection ul{
+    list-style: none;
+    
+}
+.main .navSection ul li{
+    float: left;
+    margin: 10px 20px 10px 0px;
+    border: 1px solid;
+    padding: 5px 15px;
+    border-left: 5px solid #99407f;
+}
+.bodySection .heroSrection{
+    background-image: url("img/1.jpg");
+    width: 100%;
+    height:100vh;
+    margin: 65px 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+.bodySection .heroSrection h1{
+ font-size: 75px;
+ text-align: left;
+ position: absolute;
+ top: 120px;
+ left: 5%;
+ color: #fff;
+ padding: 0;
+ margin: 0;
+ text-decoration: underline;
+}
+.bodySection .heroSrection p{
+ font-size: 35px;
+ text-align: left;
+ position: absolute;
+ top: 220px;
+ left: 5%;
+ color: #fff;
+ padding: 0;
+ margin: 0;
+ width: 55%;
+}
+.bodySection .heroSrection .heroBtn{
+
+
+ position: absolute;
+ top: 400px;
+ left: 5%;
+ 
+ padding: 0;
+ margin: 0;
+ width: 200px;
+ height:auto;
+ background-color: darkseagreen;
+ margin: 15px 0;
+ padding: 25px;
+border-radius:35px ;
+}
+.bodySection .heroSrection .heroBtn a{
+    font-size: 35px;
+    color: #fff;
+ 
+}
