@@ -70,3 +70,38 @@ border-radius:35px ;
     color: #fff;
  
 }
+.about_imgSection img{
+    height: 500px;
+    width: auto;
+
+}
+
+
+
+.aboutSection {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.about_rows {
+    display: flex;
+    flex-direction: row;
+}
+
+.namesection {
+    display: flex;
+    flex-wrap: wrap;
+}
+.f_name{
+    display: flex;
+    flex-direction: column;
+}
+.l_name{
+    display: flex;
+    flex-direction: column;
+}
+.description{
+    display: flex;
+    flex-direction: column;
+}
